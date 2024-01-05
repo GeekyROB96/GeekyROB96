@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A Flutter Dev an Problem Solver</h3>
+<h3 align="center">A Flutter Dev and a Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyrob96&label=Profile%20views&color=0e75b6&style=flat" alt="geekyrob96" /> </p>
 
