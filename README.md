@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hello , I am Rohit<br>🔭 Building solutions to real-world fintech challenges<br>🏎️ If coding were like F1, I’d be aiming for the podium every time!<br>💬 Reach out to me @rohitrk9693@gmail.com<br> 
-<a href= 'https://github.com/RohitSpense'> 🏢 Work Account</a> <br>
+🏢 Check out my [Work Account](https://github.com/RohitSpense)
 
 
 ## 🌐 Socials:
